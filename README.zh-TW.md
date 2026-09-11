@@ -7,7 +7,7 @@
 [![授權](https://img.shields.io/badge/授權-查看%20LICENSE-blue)](LICENSE)
 
 
-面向多人即時遊戲的德州撲克完整解決方案，包含 Unity 用戶端、C++ 伺服器、MySQL 與 Redis 資料層，以及俱樂部、聯盟、私人房、MTT、SNG、戰績和營運管理模組。
+本项目是一套德州撲克源碼（德州源碼）完整解決方案，包含 Unity 用戶端、C++ 伺服器、MySQL 與 Redis 資料層，以及俱樂部、聯盟、私人房、MTT、SNG、戰績和營運管理模組。
 
 **English summary:** Texas Holdem poker source code with Unity clients, a C++ multiplayer game server, poker clubs, private tables, SNG and MTT tournaments, MySQL, and Redis.
 
