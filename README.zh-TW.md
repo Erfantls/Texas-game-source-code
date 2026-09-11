@@ -1,7 +1,6 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# 德州撲克源碼完整解決方案 -德州源碼- Unity 用戶端與 C++ 遊戲伺服器
-
+# 德州撲克源碼（德州源碼）完整解決方案 - Unity 用戶端與 C++ 遊戲伺服器
 [![用戶端](https://img.shields.io/badge/用戶端-Unity%20C%23-239120)](https://unity.com/)
 [![伺服器](https://img.shields.io/badge/伺服器-C%2B%2B-00599C)](https://isocpp.org/)
 [![平台](https://img.shields.io/badge/平台-iOS%20%7C%20Android-444444)](#技術架構)
