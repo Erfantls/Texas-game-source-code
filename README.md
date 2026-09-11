@@ -1,6 +1,5 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
-
-# 德州扑克源码完整解决方案 - 德州源码，Unity 客户端与 C++ 游戏服务端
+# 德州扑克源码（德州源码）完整解决方案 - Unity 客户端与 C++ 游戏服务端
 
 [![客户端](https://img.shields.io/badge/客户端-Unity%20C%23-239120)](https://unity.com/)
 [![服务端](https://img.shields.io/badge/服务端-C%2B%2B-00599C)](https://isocpp.org/)
