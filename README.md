@@ -1,6 +1,6 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# Unity 与 C++ 德州扑克完整解决方案|德州源码|Texas Hold'em Poker Source Code
+# 德州扑克源码完整解决方案 - 德州源码，Unity 客户端与 C++ 游戏服务端
 
 [![客户端](https://img.shields.io/badge/客户端-Unity%20C%23-239120)](https://unity.com/)
 [![服务端](https://img.shields.io/badge/服务端-C%2B%2B-00599C)](https://isocpp.org/)
@@ -9,6 +9,10 @@
 
 
 面向多人实时游戏的德州扑克完整解决方案，包含 Unity 客户端、C++ 服务端、MySQL 与 Redis 数据层，以及俱乐部、联盟、私人房、MTT、SNG、战绩和运营管理模块。
+
+**English summary:** Texas Holdem poker source code with Unity clients, a C++ multiplayer game server, poker clubs, private tables, SNG and MTT tournaments, MySQL, and Redis.
+
+[在线文档（简体中文）](https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/zh-cn/) · [繁體中文網站](https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/zh-tw/) · [English website](https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/en/)
 
 
 > 项目资料显示，该系统曾在生产环境持续运行两年以上，支持十余种游戏模式。实际部署能力、并发规模和第三方依赖请在使用前独立验收。
@@ -108,6 +112,7 @@ docs/                     GitHub Pages 与技术文档
 - [系统架构页面](docs/architecture.html)
 - [部署与验收页面](docs/deployment.html)
 - [GitHub Pages 项目网站](https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/)
+- [简体中文产品页](https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/zh-cn/)
 
 
 仓库中原有的 MTT、SNG、Unity、俱乐部和多人扑克专题文档继续保留在 `docs/` 目录。

@@ -1,6 +1,6 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# Complete Unity and C++ Texas Holdem Poker Solution|Texas Hold'em Poker Source Code
+# Texas Holdem Poker Source Code - Unity Client and C++ Game Server
 
 [![Client](https://img.shields.io/badge/Client-Unity%20C%23-239120)](https://unity.com/)
 [![Server](https://img.shields.io/badge/Server-C%2B%2B-00599C)](https://isocpp.org/)
@@ -9,6 +9,8 @@
 
 
 A complete Texas Hold'em poker solution for real-time multiplayer products. The repository includes a Unity client, C++ game-server components, MySQL and Redis integration, poker clubs, alliances, private rooms, MTT and SNG tournaments, hand histories, and operations modules.
+
+[English product website](https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/en/)
 
 
 > Project materials state that the system ran in a production environment for more than two years and supports over ten game modes. Independently validate deployment requirements, concurrency capacity, and third-party dependencies before use.

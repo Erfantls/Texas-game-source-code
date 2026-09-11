@@ -1,6 +1,6 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# Unity 與 C++ 德州撲克完整解決方案|德州俱樂部
+# 德州撲克源碼完整解決方案 -德州源碼- Unity 用戶端與 C++ 遊戲伺服器
 
 [![用戶端](https://img.shields.io/badge/用戶端-Unity%20C%23-239120)](https://unity.com/)
 [![伺服器](https://img.shields.io/badge/伺服器-C%2B%2B-00599C)](https://isocpp.org/)
@@ -9,6 +9,10 @@
 
 
 面向多人即時遊戲的德州撲克完整解決方案，包含 Unity 用戶端、C++ 伺服器、MySQL 與 Redis 資料層，以及俱樂部、聯盟、私人房、MTT、SNG、戰績和營運管理模組。
+
+**English summary:** Texas Holdem poker source code with Unity clients, a C++ multiplayer game server, poker clubs, private tables, SNG and MTT tournaments, MySQL, and Redis.
+
+[繁體中文產品網站](https://masterai-top.github.io/TexasHoldem-Poker-Complete-Solution/zh-tw/)
 
 
 > 專案資料顯示，此系統曾在正式環境持續運行兩年以上，並支援十餘種遊戲模式。實際部署能力、並行規模和第三方相依套件，請在使用前獨立驗收。
