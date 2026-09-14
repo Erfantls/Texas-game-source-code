@@ -1,13 +1,14 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
-# 德州扑克源码（德州源码）完整解决方案 - Unity 客户端与 C++ 游戏服务端
+
+# 德州扑克源码完整解决方案 - 德州源码，Unity 客户端与 C++ 游戏服务端
 
 [![客户端](https://img.shields.io/badge/客户端-Unity%20C%23-239120)](https://unity.com/)
 [![服务端](https://img.shields.io/badge/服务端-C%2B%2B-00599C)](https://isocpp.org/)
 [![平台](https://img.shields.io/badge/平台-iOS%20%7C%20Android-444444)](#技术架构)
 [![许可证](https://img.shields.io/badge/许可证-查看%20LICENSE-blue)](LICENSE)
 
-本项目是一套德州扑克源码（德州源码）完整解决方案，包含 Unity 客户端、C++ 游戏服务端、MySQL 与 Redis 数据层，以及俱乐部、联盟、私人房、MTT 和 SNG 赛事模块。
 
+面向多人实时游戏的德州扑克完整解决方案，包含 Unity 客户端、C++ 服务端、MySQL 与 Redis 数据层，以及俱乐部、联盟、私人房、MTT、SNG、战绩和运营管理模块。
 
 **English summary:** Texas Holdem poker source code with Unity clients, a C++ multiplayer game server, poker clubs, private tables, SNG and MTT tournaments, MySQL, and Redis.
 
